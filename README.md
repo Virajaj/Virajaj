@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=pie)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Virajaj&layout=pie)
 
 
 
