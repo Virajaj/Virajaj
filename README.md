@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!-- Profile language stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virajaj&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=pie)
+
 
 
 
